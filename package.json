@@ -1,0 +1,35 @@
+{
+  "name": "node-task-sarver",
+  "version": "1.0.0",
+  "description": "Node Server with Express.Js and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "nps",
+    "test": "npm start",
+    "build": "npm start build",
+    "debug": "node --inspect --inspect dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruthvi999/Task-Node-API.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "TypeScript",
+    "express",
+    "boilerplate",
+    "skeleton",
+    "starter-kit",
+    "w3tec.ch"
+  ],
+  "author": "Pruthvi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pruthvi999/Task-Node-API/issues"
+  },
+  "homepage": "https://github.com/pruthvi999/Task-Node-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twilio": "^3.31.1"
+  }
+}
