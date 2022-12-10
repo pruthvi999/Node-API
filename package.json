@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/pruthvi999/Task-Node-API#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twilio": "^3.31.1"
   }
 }
